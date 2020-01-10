@@ -1,0 +1,6 @@
+C:\Users\תמר ואהרלה\Desktop\תרגילים בc#\chease\chease\bin\Debug\chease.exe.config
+C:\Users\תמר ואהרלה\Desktop\תרגילים בc#\chease\chease\bin\Debug\chease.exe
+C:\Users\תמר ואהרלה\Desktop\תרגילים בc#\chease\chease\bin\Debug\chease.pdb
+C:\Users\תמר ואהרלה\Desktop\תרגילים בc#\chease\chease\obj\Debug\chease.csprojAssemblyReference.cache
+C:\Users\תמר ואהרלה\Desktop\תרגילים בc#\chease\chease\obj\Debug\chease.exe
+C:\Users\תמר ואהרלה\Desktop\תרגילים בc#\chease\chease\obj\Debug\chease.pdb
